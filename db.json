@@ -1,0 +1,214 @@
+{
+    "products": [
+        {
+            "_id": "649b309aaa29c4af8ef5ab74",
+            "name": "Space T Shirt",
+            "description": "Presenting all new cotton t shirts",
+            "price": 1600,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://github.com/OfficialSiddharthBisht/e-com/blob/main/img/products/f1.jpg?raw=true",
+                    "_id": "649b309aaa29c4af8ef5ab75"
+                }
+            ],
+            "categories": "Cotton",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T18:55:22.297Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b3111aa29c4af8ef5ab79",
+            "name": "Half T Shirt",
+            "description": "Presenting all new cotton t shirts",
+            "price": 600,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/1rOjc1Of7tQfSdQyixBuh38hTMTKwTxKa/view?usp=drive_link",
+                    "_id": "649b3111aa29c4af8ef5ab7a"
+                }
+            ],
+            "categories": "Cotton",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T18:57:21.968Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b3665d305950ca96ae661",
+            "name": "Beige leafy T Shirt",
+            "description": "For summer vibes",
+            "price": 599,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/12suMfJRit0gj_CEBwI36MYFjQe4RKyCk/view?usp=drive_link",
+                    "_id": "649b3665d305950ca96ae662"
+                }
+            ],
+            "categories": "Cotton",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T19:20:05.719Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b36b2d305950ca96ae666",
+            "name": "Rose Pattern T Shirt",
+            "description": "For summer vibes",
+            "price": 599,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/15MhVDvpdyZxiUJysiQuj6XXiP7CRZiYt/view?usp=drive_link",
+                    "_id": "649b36b2d305950ca96ae667"
+                }
+            ],
+            "categories": "Cotton",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T19:21:22.771Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b379fd305950ca96ae66a",
+            "name": "WHite Tropical printed T Shirt",
+            "description": "Sustainable Casual Shirt",
+            "price": 799,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/1wpSHlCH5appb1j5WA4dY4aQlcDeOn5dt/view?usp=drive_link",
+                    "_id": "649b379fd305950ca96ae66b"
+                }
+            ],
+            "categories": "Cotton",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T19:25:19.271Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b3bcc161b5c2663e90c0c",
+            "name": "Purple Tropical printed T Shirt",
+            "description": "Sustainable Casual Shirt",
+            "price": 599,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/1wpSHlCH5appb1j5WA4dY4aQlcDeOn5dt/view?usp=drive_link",
+                    "_id": "649b3bcc161b5c2663e90c0d"
+                }
+            ],
+            "categories": "Cotton",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T19:43:08.412Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b3d93212d1e4504438f54",
+            "name": "Manfinity Hypemoded T Shirt",
+            "description": "Sustainable Casual Shirt",
+            "price": 999,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/1wpSHlCH5appb1j5WA4dY4aQlcDeOn5dt/view?usp=drive_link",
+                    "_id": "649b3d93212d1e4504438f55"
+                }
+            ],
+            "categories": "Non Strech FAbric",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T19:50:43.524Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b3e3e212d1e4504438f59",
+            "name": "SASSAFRAS",
+            "description": "Cotton Parallel Trousers",
+            "price": 799,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/1fuJF7Xv3FfYQioysCRTZeVLkUwhAtKEo/view?usp=drive_link",
+                    "_id": "649b3e3e212d1e4504438f5a"
+                }
+            ],
+            "categories": " woven parallel",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T19:53:34.871Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b43b3321d00668008de60",
+            "name": "SASSAFRAS",
+            "description": "Cinched Waist Top",
+            "price": 799,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/1CirTlbTvjrU8I_I-pqzawBOyHFLmEowj/view?usp=drive_link",
+                    "_id": "649b43b3321d00668008de61"
+                }
+            ],
+            "categories": " Tops",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T20:16:51.304Z",
+            "__v": 0
+        },
+        {
+            "_id": "649b45c96f2c40eb523982c1",
+            "name": "H&M",
+            "description": "Blue Regular Fit Shirt ",
+            "price": 799,
+            "ratings": 0,
+            "images": [
+                {
+                    "public_id": "sample id",
+                    "url": "https://drive.google.com/file/d/1CirTlbTvjrU8I_I-pqzawBOyHFLmEowj/view?usp=drive_link",
+                    "_id": "649b45c96f2c40eb523982c2"
+                }
+            ],
+            "categories": "Linen and Cotton ",
+            "stock": 0,
+            "numOfReviews": 0,
+            "user": "643e70a6e7e0cc5b888bfef5",
+            "reviews": [],
+            "createdAt": "2023-06-27T20:25:45.669Z",
+            "__v": 0
+        }
+    ]
+}
